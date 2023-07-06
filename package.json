@@ -1,0 +1,25 @@
+{
+  "name": "ms-hari-betest-read-api",
+  "version": "1.0.0",
+  "description": "Jenius Backend Developer CRUD Test - Read",
+  "main": "app.js",
+  "scripts": {
+    "test": "read"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hari-Kiri/ms-hari-betest-read-api.git"
+  },
+  "keywords": [
+    "ms-hari-betest-read-api"
+  ],
+  "author": "Hari Yulianto Pratama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hari-Kiri/ms-hari-betest-read-api/issues"
+  },
+  "homepage": "https://github.com/Hari-Kiri/ms-hari-betest-read-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
